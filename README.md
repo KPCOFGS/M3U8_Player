@@ -12,9 +12,9 @@ A simple web application that allows users to play videos from an M3U8 playlist.
 ## Installation
 1. To use the Video Playlist Player, first clone the repository:
 ```bash
-git clone
+git clone https://github.com/KPCOFGS/M3U8_Player.git
 ```
-2. Then, move into M3U8_Player folder you just downloaded and simply open the `m3u8_player.html` file in your web browser.
+2. Then, move into the `M3U8_Player` folder you just downloaded and simply open the `m3u8_player.html` file in your web browser.
 ## Usage
 1. Load an M3U8 Playlist:
    * Click the file input button (Choose File) to select an M3U8 playlist file from your local filesystem.
