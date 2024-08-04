@@ -10,7 +10,7 @@ A simple web application that allows users to play videos from an M3U8 playlist.
 ## Requirements
 * A modern web browser that supports HLS.js or native HLS playback.
 ## Installation
-1. To use the Video Playlist Player, first clone the repository:
+1. To use this, first clone the repository:
 ```bash
 git clone https://github.com/KPCOFGS/M3U8_Player.git
 ```
